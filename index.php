@@ -8,7 +8,7 @@
 <body>
     <?php
     $nome="Erik Souza";
-    echo "Hoje é " . date("dd/mm/yyyy") . "e agora são " . date("hh:ii:ss");
+    echo "Hoje é " . date("d/m/y") . "e agora são " . date("h:i:s");
     echo "<h1>Meu nome é: $nome</h1>";
     ?>
 </body>
